@@ -67,4 +67,6 @@ Deployment
 
 Once validated, the trained DRL model can be deployed to a real robot with minimal modifications. ROS2 nodes handle communication between the DRL model and the robot's hardware.
 
-
+## Result
+To see the rsult check out result.mp4: https://github.com/FazilMammadli/Collision-Avoidance-for-Robots/blob/main/result.mp4 
+You can see Youtube video as well: https://www.youtube.com/watch?v=Hro7ZGgVR0Q
