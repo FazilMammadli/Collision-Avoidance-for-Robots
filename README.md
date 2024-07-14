@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Collision-Avoidance-for-Robots
 
 A comprehensive project leveraging Deep Reinforcement Learning for robust and efficient robot navigation using ROS2.
@@ -68,3 +69,6 @@ Deployment
 Once validated, the trained DRL model can be deployed to a real robot with minimal modifications. ROS2 nodes handle communication between the DRL model and the robot's hardware.
 
 
+=======
+# Collision-Avoidance-for-Robots
+>>>>>>> origin/main
